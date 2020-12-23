@@ -1,2 +1,3 @@
-# angular.forbid-module-imports
+# ForbidModuleImports
+
 Example of forbid import between modules
